@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josepablobermudezm
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AngularJS
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on different projects that I'm passionate about
 - 📫 How to reach me: You can email me at josepablobermudezm@gmail.com
 
