@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on different projects that I'm passionate about
 - 📫 How to reach me: You can email me at josepablobermudezm@gmail.com
-- 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
