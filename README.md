@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/josepablobermudezm/josepablobermudezm/blob/main/name.svg" alt="Jose Pablo Bermúdez" />
+</h1>
+
 
 # Github Status
 ![Github Status](https://github-readme-stats.vercel.app/api?username=josepablobermudezm&count_private=true&show_icons=true&theme=react)
