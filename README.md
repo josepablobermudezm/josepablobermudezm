@@ -6,7 +6,7 @@
 ![Github Status](https://github-readme-stats.vercel.app/api?username=josepablobermudezm&count_private=true&show_icons=true&theme=react)
 
 - 👋 Hi, I’m @josepablobermudezm
-- 👀 I’m a Data Engineer
+- 👀 I’m a DevOps Engineer
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on different projects that I'm passionate about
 - 📫 How to reach me: You can email me at josepablobermudezm@gmail.com
